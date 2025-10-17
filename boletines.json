@@ -1,0 +1,73 @@
+[
+  {
+    "id": "ee98b94e-ee46-463f-aa2f-6aa34de85ee2",
+    "num": "043-23",
+    "categoria": "legislacion",
+    "fecha": "2025-09-01",
+    "pdf": "boletin1.pdf"
+  },
+  {
+    "id": "1ca2b085-b074-46f0-937a-8784fadb9bcc",
+    "num": "043-24",
+    "categoria": "avisos",
+    "fecha": "2025-09-02",
+    "pdf": "boletin2.pdf"
+  },
+  {
+    "id": "8eb1d6ba-a9f6-4f8e-af33-9ac7d2b69b67",
+    "num": "043-25",
+    "categoria": "avisos",
+    "fecha": "2025-09-08",
+    "pdf": "boletin3.pdf"
+  },
+  {
+    "id": "5fad6a64-9b0b-42e9-bd0a-f2eb17f70637",
+    "num": "043-26",
+    "categoria": "edictos",
+    "fecha": "2025-09-20",
+    "pdf": "boletin4.pdf"
+  },
+  {
+    "id": "a2af0f05-21b7-4ce6-8f27-76bf4edc81fa",
+    "num": "043-27",
+    "categoria": "legislacion",
+    "fecha": "2025-09-27",
+    "pdf": "boletin5.pdf"
+  },
+  {
+    "id": "b65d5635-ed58-4d6c-a310-d007047d849e",
+    "num": "043-28",
+    "categoria": "contrataciones",
+    "fecha": "2025-10-05",
+    "pdf": "boletin6.pdf"
+  },
+  {
+    "id": "bc383ffa-aea0-42a6-a46b-0f5584172932",
+    "num": "043-30",
+    "categoria": "avisos",
+    "fecha": "2025-10-10",
+    "pdf": "boletin7.pdf"
+  },
+  {
+    "id": "1d5c3a3d-3d0f-4c8e-84a9-b0a85d507000",
+    "num": "044-01",
+    "categoria": "legislacion",
+    "fecha": "2025-10-13",
+    "pdf": "boletin8.pdf"
+  },
+  {
+    "id": "0d290980-4913-4263-b7ae-31b71fa67d07",
+    "num": "044-02",
+    "categoria": "edictos",
+    "fecha": "2025-10-15",
+    "pdf": "boletin9.pdf"
+  },
+  {
+    "id": "4b1c9003-5092-4e77-a1e2-5d7533b79e9b",
+    "num": "044-03",
+    "categoria": "contrataciones",
+    "fecha": "2025-10-19",
+    "pdf": "boletin10.pdf"
+  }
+]
+
