@@ -1,5 +1,5 @@
 async function boletines() {
-  const apiUrl = process.env.PORT ?? 'http://localhost:10000/api/boletines'
+  const apiUrl = 'https://boletin-oficial-6a5h.onrender.com/api/boletines'
 
   try {
     const res = await fetch(apiUrl);
@@ -17,7 +17,7 @@ async function boletines() {
 }
 
 async function ultimosBoletines() {
-  const apiUrl = 'http://localhost:3000/api/boletines/ultimos'
+  const apiUrl = 'https://boletin-oficial-6a5h.onrender.com/api/boletines/ultimos'
 
   try {
     const res = await fetch(apiUrl);
@@ -36,8 +36,8 @@ async function ultimosBoletines() {
 
 async function boletinCategoria(categoria = '') {
   const url = categoria
-  ? `http://localhost:3000/api/boletines?categoria=${encodeURIComponent(categoria)}` 
-  : 'http://localhost:3000/api/boletines'
+  ? `https://boletin-oficial-6a5h.onrender.com/api/boletines?categoria=${encodeURIComponent(categoria)}` 
+  : 'https://boletin-oficial-6a5h.onrender.com/api/boletines'
   
   try {
     const res = await fetch(url)
