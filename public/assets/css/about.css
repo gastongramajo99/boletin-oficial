@@ -310,6 +310,10 @@ footer .bottom {
 
     /* Estilos aqui */
 
+    p {
+        font-size: 1.1em;
+    }
+    
     main > section:first-child div {
         display: flex;
         align-items: center;
