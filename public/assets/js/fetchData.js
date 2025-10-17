@@ -1,5 +1,5 @@
 async function boletines() {
-  const apiUrl = 'http://localhost:3000/api/boletines'
+  const apiUrl = process.env.PORT ?? 'http://localhost:10000/api/boletines'
 
   try {
     const res = await fetch(apiUrl);
